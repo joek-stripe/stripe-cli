@@ -18,6 +18,7 @@ require (
 	github.com/mattn/go-isatty v0.0.9 // indirect
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
 	github.com/mitchellh/go-homedir v1.1.0
+	github.com/nicksnyder/go-i18n v1.10.1 // indirect
 	github.com/onsi/ginkgo v1.8.0 // indirect
 	github.com/onsi/gomega v1.5.0 // indirect
 	github.com/otiai10/copy v1.0.1
@@ -36,10 +37,8 @@ require (
 	github.com/tidwall/gjson v1.3.2
 	github.com/tidwall/pretty v1.0.0
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2
-	golang.org/x/crypto v0.0.0-20190911031432-227b76d455e7
-	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7 // indirect
-	golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a
-	golang.org/x/tools v0.0.0-20190809145639-6d4652c779c4 // indirect
+	golang.org/x/crypto v0.1.0
+	golang.org/x/sys v0.1.0
 	gopkg.in/alecthomas/kingpin.v3-unstable v3.0.0-20180810215634-df19058c872c // indirect
 	gopkg.in/src-d/go-git.v4 v4.13.1
 )
